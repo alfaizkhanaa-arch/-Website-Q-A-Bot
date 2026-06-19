@@ -1,0 +1,15 @@
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+pypdf
+chromadb
+streamlit
+sentence-transformers
+python-dotenv
+huggingface-hub
+beautifulsoup4
+requests
+lxml
